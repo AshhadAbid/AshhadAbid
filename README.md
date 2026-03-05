@@ -2,6 +2,9 @@
 I'm currently working as a Software Engineer. Playing with Java , Spring boot and Vue.js.
 I’m currently learning Apache Kafka.
 
+## Profile Views
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AshhadAbid)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashhadabid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashhadabidofc@gmail.com) 
 
